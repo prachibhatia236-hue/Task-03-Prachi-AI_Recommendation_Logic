@@ -30,18 +30,6 @@ The AI Recommendation System is a simple Python-based application that recommend
 3. Open the terminal.
 4. Run the following command.
 
-## Sample Input
-
-Category: movies
-Interest: action
-
-## Sample Output
-
-Recommended Items:
-- Avengers
-- John Wick
-- The Dark Knight
-
 ## Future Improvements
 
 - Add more recommendation categories.
