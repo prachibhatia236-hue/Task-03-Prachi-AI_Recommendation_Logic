@@ -28,7 +28,7 @@ The AI Recommendation System is a simple Python-based application that recommend
 1. Clone the repository.
 2. Open the project folder in VS Code.
 3. Open the terminal.
-4. Run the following command:
+4. Run the following command.
 
 ## Sample Input
 
